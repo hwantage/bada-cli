@@ -4,7 +4,7 @@
     "cmd": "cd /d D:\\git-dlpcenter\\DLPCenter.View.Web\\frontend && npm run bundle"
   },
   {
-    "key": "Postcss-build",
+    "key": "Postcss_build",
     "cmd": "cd /d D:\\git-dlpcenter\\DLPCenter.View.Web\\postcss && npm run build"
   }
 ]

@@ -61,7 +61,7 @@ const askQuestions = () => {
       choices: [
         "1.Change_node_version",
         "2.Webpack_build",
-        "3.Postcss-build",
+        "3.Postcss_build",
         "4.Back",
       ],
       filter: function (val) {
@@ -187,7 +187,7 @@ const run = async () => {
             console.log(`엔터키를 입력하세요.`);
           }
         );
-      } else if (INPUT === "Postcss-build") {
+      } else if (INPUT === "Postcss_build") {
         var obj = config.find((item) => item.key === INPUT);
         exec(
           obj.cmd, // "cd /d D:\\git-dlpcenter\\DLPCenter.View.Web\\postcss && npm run build"
