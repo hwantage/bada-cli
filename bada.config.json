@@ -1,0 +1,10 @@
+[
+  {
+    "key": "Webpack_build",
+    "cmd": "cd /d D:\\git-dlpcenter\\DLPCenter.View.Web\\frontend && npm run bundle"
+  },
+  {
+    "key": "Postcss-build",
+    "cmd": "cd /d D:\\git-dlpcenter\\DLPCenter.View.Web\\postcss && npm run build"
+  }
+]
