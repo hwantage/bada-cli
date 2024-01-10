@@ -1,5 +1,5 @@
 {
-  "name": "badacli",
+  "name": "bada-cli",
   "version": "1.0.0",
   "description": "node.js cli for node version change and run build script",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "bin": {
-    "badacli": "./index.js"
+    "bada-cli": "./index.js"
   },
   "author": "hwantage <hwantagexsw2@gmail.com>",
   "license": "MIT",
